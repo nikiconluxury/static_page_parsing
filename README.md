@@ -67,7 +67,7 @@ def parse_product_blocks(self, soup, category):
 
     # Return the list of lists containing all the product data; this structure is important for correctly writing to a CSV file
     return parsed_data
-
+```
 
 ## Running the Parser
 
