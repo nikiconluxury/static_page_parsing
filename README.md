@@ -1,6 +1,6 @@
 # Brand Site Parsing Template
 
-This repository contains a template designed for parsing static pages of brand websites. It is structured to be easily adaptable for different brands by following the instructions below.
+This repository contains a template designed for parsing static category pages of brand websites. It is structured to be easily adaptable for different brands by following the instructions below.
 
 ## Getting Started
 
