@@ -1,4 +1,4 @@
-from brand_parser import BrandNameParser, BurberryParser
+from brand_parser import BrandNameParser, BurberryParser, KenzoParser
 
 
 ###START PARSER##
@@ -15,6 +15,13 @@ brand_name_parser = BrandNameParser(output_directory_path)
 directory_path = 'burberry'
 
 burberry_parser = BurberryParser(output_directory_path)
-burberry_parser.parse_directory(directory_path)
+#burberry_parser.parse_directory(directory_path)
+
+#KenzoParser RUN
+directory_path = 'kenzo'
+
+kenzo_parser = KenzoParser(output_directory_path)
+kenzo_parser.parse_directory(directory_path)
+
 
 
